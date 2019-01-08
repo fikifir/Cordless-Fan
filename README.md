@@ -26,6 +26,7 @@
 
 <hr>
 <a name="parts"></a>
+
 ## 1. Parts
 
 ![Parts](/img/parts.jpg)
@@ -39,9 +40,11 @@
 
 <hr>
 <a name="diagram"></a>
+
 ## 2. Diagram
 
 <a name="schematic"></a>
+
 ### 2.1. Schematic Diagram
 
 ![Schematic](/img/schematic.jpg)
@@ -50,6 +53,7 @@ There are a set of rules to keep in mind:
 * Perform work in a feature branch.
 
 <a name="pcb"></a>
+
 ### 2.2. PCB Design
  
 ![PCB](/img/wiring.jpg)
@@ -59,6 +63,7 @@ There are a set of rules to keep in mind:
 * Never push into `develop` or `master` branch. Make a Pull Request.
 
 <a name="wiring"></a>
+
 ### 2.3. Wiring Diagram
  
 ![Wiring](/img/wiring.jpg)
@@ -68,13 +73,15 @@ There are a set of rules to keep in mind:
 * Never push into `develop` or `master` branch. Make a Pull Request.
 
 <hr>
-<a name="finished"></a>   
+<a name="finished"></a> 
+
 ## 3. Finished Product
 
 ![Fans](/img/fans.jpg)
 
 <hr>
 <a name="reference"></a>
+
 ## 4. Reference
 
 Having a good guideline for creating commits and sticking to it makes working with Git and collaborating with others a lot easier. Here are some rules of thumb ([source](https://chris.beams.io/posts/git-commit/#seven-rules)):
