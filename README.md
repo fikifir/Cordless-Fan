@@ -5,7 +5,7 @@
 
 # Cordless Fans 18650
 
-> Kipas ini dapat beroperasi saat listrik PLN padam, mampu beroperasi hingga 3.5 jam non-stop. cocok digunakan untuk keluarga yang mempunyai bayi dan orang yang terbiasa tidur dengan kipas angin.
+> Kipas ini dapat beroperasi saat listrik PLN mati, mampu beroperasi hingga 3.5 jam non-stop. cocok digunakan untuk keluarga yang mempunyai bayi.
 
 
 ## Index
