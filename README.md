@@ -8,7 +8,6 @@
 
 > Kipas ini dapat beroperasi saat listrik PLN padam, mampu beroperasi hingga 3.5 jam non-stop. cocok digunakan untuk keluarga yang mempunyai bayi dan orang yang terbiasa tidur dengan kipas angin.
 
-<hr>
 
 ## Daftar isi
 
@@ -25,6 +24,7 @@
 8. [Gallery](#gallery)
 
 <a name="parts"></a>
+<br>
 
 ## 1. Parts
 
@@ -38,6 +38,7 @@
 - Box plastik (1)
 
 <a name="diagram"></a>
+<br>
 
 ## 2. Diagram
 
