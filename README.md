@@ -24,7 +24,6 @@
 7. [Licensing](#licensing)
 8. [Gallery](#gallery)
 
-<hr>
 <a name="parts"></a>
 
 ## 1. Parts
@@ -38,7 +37,6 @@
 - Saklar (1)
 - Box plastik (1)
 
-<hr>
 <a name="diagram"></a>
 
 ## 2. Diagram
@@ -72,14 +70,12 @@ There are a set of rules to keep in mind:
 * Perform work in a feature branch.
 * Never push into `develop` or `master` branch. Make a Pull Request.
 
-<hr>
 <a name="finished"></a> 
 
 ## 3. Finished Product
 
 ![Fans](/img/fans.jpg)
 
-<hr>
 <a name="reference"></a>
 
 ## 4. Reference
