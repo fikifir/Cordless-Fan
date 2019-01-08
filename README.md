@@ -25,7 +25,7 @@
 <a name="parts"></a>
 <br>
 
-## 1. Parts
+## Parts
 
 ![Parts](/img/parts.jpg)
 
@@ -39,7 +39,7 @@
 <a name="diagram"></a>
 <br>
 
-## 2. Diagram
+## Diagram
 
 <a name="schematic"></a>
 
@@ -75,13 +75,13 @@ There are a set of rules to keep in mind:
 <a name="finished"></a>
 <br>
 
-## 3. Finished Product
+## Finished Product
 
 ![Fans](/img/fans.jpg)
 
 <a name="reference"></a>
 <br>
 
-## 4. Reference
+## Reference
 
 Having a good guideline for creating commits and sticking to it makes working with Git and collaborating with others a lot easier. Here are some rules of thumb ([source](https://chris.beams.io/posts/git-commit/#seven-rules)):
