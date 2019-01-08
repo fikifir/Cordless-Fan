@@ -1,8 +1,7 @@
 [ID](./README.md) | [EN](./README-en.md)
 
-<p align="center">
-[<img src="./img/logo.png" width="180" height="180">](http://fikifir.com)
-</p>
+
+[<img src="./img/logo.png" width="180" height="180">]
 
 # Cordless Fans 18650
 
