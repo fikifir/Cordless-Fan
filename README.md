@@ -8,7 +8,7 @@
 > Kipas ini dapat beroperasi saat listrik PLN padam, mampu beroperasi hingga 3.5 jam non-stop. cocok digunakan untuk keluarga yang mempunyai bayi dan orang yang terbiasa tidur dengan kipas angin.
 
 
-## Daftar isi
+## Index
 
 1. [Parts](#parts)
 2. [Diagram](#diagram)
@@ -43,7 +43,7 @@
 
 <a name="schematic"></a>
 
-### 2.1. Schematic Diagram
+### Schematic Diagram
 
 ![Schematic](/img/schematic.jpg)
 
@@ -53,7 +53,7 @@ There are a set of rules to keep in mind:
 <a name="pcb"></a>
 <br>
 
-### 2.2. PCB Design
+### PCB Design
  
 ![PCB](/img/wiring.jpg)
  
@@ -64,7 +64,7 @@ There are a set of rules to keep in mind:
 <a name="wiring"></a>
 <br>
 
-### 2.3. Wiring Diagram
+### Wiring Diagram
  
 ![Wiring](/img/wiring.jpg)
  
