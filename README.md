@@ -52,6 +52,7 @@ There are a set of rules to keep in mind:
 * Perform work in a feature branch.
 
 <a name="pcb"></a>
+<br>
 
 ### 2.2. PCB Design
  
@@ -62,6 +63,7 @@ There are a set of rules to keep in mind:
 * Never push into `develop` or `master` branch. Make a Pull Request.
 
 <a name="wiring"></a>
+<br>
 
 ### 2.3. Wiring Diagram
  
@@ -71,13 +73,15 @@ There are a set of rules to keep in mind:
 * Perform work in a feature branch.
 * Never push into `develop` or `master` branch. Make a Pull Request.
 
-<a name="finished"></a> 
+<a name="finished"></a>
+<br>
 
 ## 3. Finished Product
 
 ![Fans](/img/fans.jpg)
 
 <a name="reference"></a>
+<br>
 
 ## 4. Reference
 
