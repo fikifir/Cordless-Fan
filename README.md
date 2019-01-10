@@ -1,4 +1,4 @@
-[ID](./README.md) | [EN](./README-en.md)
+ID | [EN](./README-en.md)
 
 
 [<img src="./img/logo.png" width="180" height="180">](http://fikifir.com)
