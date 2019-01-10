@@ -77,7 +77,17 @@ There are a set of rules to keep in mind:
 
 ## Finished Product
 
-![Fans](/img/fans.jpg)
+![Cover](/img/01-cordless-fan-cover.jpg)
+
+![Tampak Samping](/img/02-cordless-fan-front.jpg)
+
+![Tampak Belakang](/img/03-cordless-fan-back.jpg)
+
+![Samping Kiri](/img/04-cordless-fan-left.jpg)
+
+![Samping Kanan](/img/05-cordless-fan-right.jpg)
+
+
 
 <a name="reference"></a>
 <br>
