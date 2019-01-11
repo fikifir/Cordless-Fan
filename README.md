@@ -27,8 +27,6 @@ ID | [EN](./README-en.md)
 
 ## Parts
 
-![Parts](/img/parts.jpg)
-
 - Kipas Brushless 12V 0.38A (1)
 - MT3608 DC to DC Step-Up Converter (1)
 - TP4056 Lithium Battery Charger (1)
@@ -46,9 +44,6 @@ ID | [EN](./README-en.md)
 ### Schematic Diagram
 
 ![Schematic](/img/06-cordless-fan-schematic.png)
-
-There are a set of rules to keep in mind:
-* Perform work in a feature branch.
 
 <a name="wiring"></a>
 <br>
