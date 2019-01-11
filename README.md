@@ -49,7 +49,7 @@ ID | [EN](./README-en.md)
 
 ### Wiring Diagram
  
-![Wiring](/img/wiring.jpg)
+![Wiring](/img/07-cordless-fan-wiring.jpg)
  
 There are a set of rules to keep in mind:
 * Perform work in a feature branch.
