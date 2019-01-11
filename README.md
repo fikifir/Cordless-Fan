@@ -45,21 +45,10 @@ ID | [EN](./README-en.md)
 
 ### Schematic Diagram
 
-![Schematic](/img/schematic.jpg)
+![Schematic](/img/06-cordless-fan-schematic.png)
 
 There are a set of rules to keep in mind:
 * Perform work in a feature branch.
-
-<a name="pcb"></a>
-<br>
-
-### PCB Design
- 
-![PCB](/img/wiring.jpg)
- 
-There are a set of rules to keep in mind:
-* Perform work in a feature branch.
-* Never push into `develop` or `master` branch. Make a Pull Request.
 
 <a name="wiring"></a>
 <br>
